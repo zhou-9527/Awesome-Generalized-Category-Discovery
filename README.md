@@ -83,7 +83,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Parametric Classification for Generalized Category Discovery: A Baseline Study | **ICCV 2023** | [Paper](https://arxiv.org/abs/2211.11727) · [Code](https://github.com/CVMI-Lab/SimGCD) | GCD |
 | Dynamic Conceptional Contrastive Learning for Generalized Category Discovery | **CVPR 2023** | [Paper](https://arxiv.org/pdf/2303.17393) · [Code](https://github.com/TPCD/DCCL) | GCD |
 | PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery | **CVPR 2023** | [Paper](https://arxiv.org/abs/2212.05590) · [Code](https://github.com/sheng-eatamath/PromptCAL) | GCD |
-| ImbaGCD: Imbalanced Generalized Category Discovery | **CVPR Wkshp 2023** | [Paper](https://computer-vision-in-the-wild.github.io/cvpr-2023/static/cvpr2023/accepted_papers/16/CameraReady/ImbaGCD_CVPR_Workshop.pdf) | GCD |
+| ImbaGCD: Imbalanced Generalized Category Discovery | **CVPR 2023** | [Paper](https://computer-vision-in-the-wild.github.io/cvpr-2023/static/cvpr2023/accepted_papers/16/CameraReady/ImbaGCD_CVPR_Workshop.pdf) | GCD |
 | Towards Distribution-Agnostic Generalized Category Discovery | **NeurIPS 2023** | [Paper](https://arxiv.org/abs/2310.01376) · [Code](https://github.com/JianhongBai/BaCon) | GCD |
 | Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery | **NeurIPS 2023** | [Paper](https://arxiv.org/pdf/2310.19776.pdf) · [Code](https://github.com/SarahRastegar/InfoSieve) | GCD |
 | Decoupled Prototypical Network for Generalized Category Discovery | **AAAI 2023** | [Paper](https://arxiv.org/abs/2211.15115) · [Code](https://github.com/Lackel/DPN) | GCD |
