@@ -72,9 +72,6 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## 2023
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
-| Incremental Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2304.14310) · [Code](https://github.com/DTennant/Incremental-Generalized-Category-Discovery) | C-GCD |
-| Proxy Anchor-Based Unsupervised Learning for Continuous Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2307.10943) · [Code](https://github.com/Hy2MK/CGCD) | C-GCD |
-| MetaGCD: Learning to Continually Learn in Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2308.11063) · [Code](https://github.com/ynanwu/MetaGCD) | C-GCD |
 | Parametric Information Maximization for Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2212.00334) · [Code](https://github.com/ThalesGroup/pim-generalized-category-discovery) | GCD |
 | Parametric Classification for Generalized Category Discovery: A Baseline Study | **ICCV 2023** | [Paper](https://arxiv.org/abs/2211.11727) · [Code](https://github.com/CVMI-Lab/SimGCD) | GCD |
 | Dynamic Conceptional Contrastive Learning for Generalized Category Discovery | **CVPR 2023** | [Paper](https://arxiv.org/pdf/2303.17393) · [Code](https://github.com/TPCD/DCCL) | GCD |
@@ -84,8 +81,12 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery | **NeurIPS 2023** | [Paper](https://arxiv.org/pdf/2310.19776.pdf) · [Code](https://github.com/SarahRastegar/InfoSieve) | GCD |
 | Decoupled Prototypical Network for Generalized Category Discovery | **AAAI 2023** | [Paper](https://arxiv.org/abs/2211.15115) · [Code](https://github.com/Lackel/DPN) | GCD |
 | OpenCon: Open-World Contrastive Learning | **TMLR 2023** | [Paper](https://arxiv.org/abs/2208.02764) · [Code](https://github.com/deeplearning-wisc/opencon/) | GCD |
+| Incremental Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2304.14310) · [Code](https://github.com/DTennant/Incremental-Generalized-Category-Discovery) | C-GCD |
+| Proxy Anchor-Based Unsupervised Learning for Continuous Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2307.10943) · [Code](https://github.com/Hy2MK/CGCD) | C-GCD |
+| MetaGCD: Learning to Continually Learn in Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2308.11063) · [Code](https://github.com/ynanwu/MetaGCD) | C-GCD |
 | A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning | **NeurIPS 2023** | [Paper](https://arxiv.org/abs/2311.03524) · [Code](https://github.com/deeplearning-wisc/sorl) | OW-SSL |
 | When and How Does Known Class Help Discover Unknown Ones? Spectral Analysis | **ICML 2023** | [Paper](https://openreview.net/pdf?id=JHodnaW5WZ) · [Code](https://github.com/deeplearning-wisc/NSCL) | OW-SSL |
+
 
 ---
 
