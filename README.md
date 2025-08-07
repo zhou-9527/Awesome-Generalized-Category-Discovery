@@ -41,6 +41,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 |-------|-------|-------|---------|
 | ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery | **TPAMI 2025** | [Paper](https://arxiv.org/abs/2504.03755) · [Code](https://github.com/mashijie1028/ProtoGCD) | GCD |
 | GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2403.09974) · [Code](https://github.com/enguangW/GET) | GCD |
+| HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | **ICLR 2025** | [Paper](https://arxiv.org/abs/2408.04591)· [Code](https://github.com/Visual-AI/HiLo) | GCD |
 ---
 
 ## 2024
