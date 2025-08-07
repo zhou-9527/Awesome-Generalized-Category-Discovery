@@ -52,6 +52,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
 | Happy: A Debiased Learning Framework for Continual Generalized Category Discovery | **NeurIPS 2024** | [Paper](https://arxiv.org/abs/2410.06535) · [Code](https://github.com/mashijie1028/Happy-CGCD) | C-GCD |
+| Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery | **NeurIPS 2024** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/70270a1bc28ecb2a2aefad566c5e556b-Paper-Conference.pdf)  | GCD |
 | PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2407.19001) · [Code](https://github.com/Visual-AI/PromptCCD) | C-GCD |
 | Online Continuous Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.13492) · [Code](https://github.com/KHU-AGI/OCGCD) | C-GCD |
 | Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery| **ECCV 2024**| [Paper](https://arxiv.org/abs/2308.12112) · [Code](https://github.com/grypesc/CAMP)| C-GCD |
