@@ -4,7 +4,8 @@ Generalized Category Discovery (GCD) extends classic Novel Class Discovery by jo
 
 - **C-GCD** &nbsp;– Continual / Incremental / Online  
 - **Fed-GCD** &nbsp;– Federated learning setting  
-- **Active-GCD** &nbsp;– Active-learning‐assisted discovery  
+- **Active-GCD** &nbsp;– Active-learning‐assisted discovery
+- **Domain-GCD**&nbsp;– Domain Generalized Category discovery (DGCD)
 - **OW-SSL** &nbsp;– Open-World Semi-Supervised Learning (commonly used baseline)
 
 Below is a non-exhaustive, continuously updated list of GCD papers.
@@ -38,6 +39,10 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 |-------|-------|-------|---------|
 | ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery | **TPAMI 2025** | [Paper](https://arxiv.org/abs/2504.03755) · [Code](https://github.com/mashijie1028/ProtoGCD) | GCD |
 | GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2403.09974) · [Code](https://github.com/enguangW/GET) | GCD |
+| When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.14897) · [Code](https://github.com/Shubh-Nil/D_GCD) | D-GCD |
+| Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Adaptive_Part_Learning_for_Fine-Grained_Generalized_Category_Discovery_A_Plug-and-Play_CVPR_2025_paper.pdf) | GCD |
+| Less Attention is More: Prompt Transformer for Generalized Category Discovery  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)| GCD |
+| MOS: Modeling Object-Scene Associations in Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.12035) · [Code](https://github.com/JethroPeng/MOS?tab=readme-ov-file) | GCD |
 | HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | **ICLR 2025** | [Paper](https://arxiv.org/abs/2408.04591)· [Code](https://github.com/Visual-AI/HiLo) | GCD |
 
 
