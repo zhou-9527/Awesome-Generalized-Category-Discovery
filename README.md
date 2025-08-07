@@ -84,10 +84,9 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Dynamic Conceptional Contrastive Learning for Generalized Category Discovery | **CVPR 2023** | [Paper](https://arxiv.org/pdf/2303.17393) · [Code](https://github.com/TPCD/DCCL) | GCD |
 | PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery | **CVPR 2023** | [Paper](https://arxiv.org/abs/2212.05590) · [Code](https://github.com/sheng-eatamath/PromptCAL) | GCD |
 | ImbaGCD: Imbalanced Generalized Category Discovery | **CVPR Wkshp 2023** | [Paper](https://computer-vision-in-the-wild.github.io/cvpr-2023/static/cvpr2023/accepted_papers/16/CameraReady/ImbaGCD_CVPR_Workshop.pdf) | GCD |
-| BaCon: Towards Distribution-Agnostic Generalized Category Discovery | **NeurIPS 2023** | [Paper](https://arxiv.org/abs/2310.01376) · [Code](https://github.com/JianhongBai/BaCon) | GCD |
+| Towards Distribution-Agnostic Generalized Category Discovery | **NeurIPS 2023** | [Paper](https://arxiv.org/abs/2310.01376) · [Code](https://github.com/JianhongBai/BaCon) | GCD |
 | Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery | **NeurIPS 2023** | [Paper](https://arxiv.org/pdf/2310.19776.pdf) · [Code](https://github.com/SarahRastegar/InfoSieve) | GCD |
 | Decoupled Prototypical Network for Generalized Category Discovery | **AAAI 2023** | [Paper](https://arxiv.org/abs/2211.15115) · [Code](https://github.com/Lackel/DPN) | GCD |
-| OpenCon: Open-World Contrastive Learning | **TMLR 2023** | [Paper](https://arxiv.org/abs/2208.02764) · [Code](https://github.com/deeplearning-wisc/opencon/) | GCD |
 | Incremental Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2304.14310) · [Code](https://github.com/DTennant/Incremental-Generalized-Category-Discovery) | C-GCD |
 | Proxy Anchor-Based Unsupervised Learning for Continuous Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2307.10943) · [Code](https://github.com/Hy2MK/CGCD) | C-GCD |
 | MetaGCD: Learning to Continually Learn in Generalized Category Discovery | **ICCV 2023** | [Paper](https://arxiv.org/abs/2308.11063) · [Code](https://github.com/ynanwu/MetaGCD) | C-GCD |
