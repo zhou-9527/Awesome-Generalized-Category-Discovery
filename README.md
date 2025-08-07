@@ -39,8 +39,8 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 |-------|-------|-------|---------|
 | ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery | **TPAMI 2025** | [Paper](https://arxiv.org/abs/2504.03755) · [Code](https://github.com/mashijie1028/ProtoGCD) | GCD |
 | A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention | **ICCV 2025** | [Paper](https://arxiv.org/abs/2507.14315) · [Code](https://github.com/Afleve/AFGCD) | GCD |
-| Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction| **ICCV 2025** | [Paper](-) · [Code](-) | GCD |
-| AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery | **ICCV 2025** | [Paper](-) · [Code](-) | GCD |
+| Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction| **ICCV 2025** |-| GCD |
+| AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery | **ICCV 2025** |-| GCD |
 | GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2403.09974) · [Code](https://github.com/enguangW/GET) | GCD |
 | Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Adaptive_Part_Learning_for_Fine-Grained_Generalized_Category_Discovery_A_Plug-and-Play_CVPR_2025_paper.pdf) | GCD |
 | Less Attention is More: Prompt Transformer for Generalized Category Discovery  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)| GCD |
