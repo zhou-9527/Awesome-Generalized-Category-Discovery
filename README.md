@@ -49,7 +49,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Happy: A Debiased Learning Framework for Continual Generalized Category Discovery | **NeurIPS 2024** | [Paper](https://arxiv.org/abs/2410.06535) · [Code](https://github.com/mashijie1028/Happy-CGCD) | C-GCD |
 | PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2407.19001) · [Code](https://github.com/Visual-AI/PromptCCD) | C-GCD |
 | Online Continuous Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.13492) · [Code](https://github.com/KHU-AGI/OCGCD) | C-GCD |
-| Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery| **ECCV 2024**| [Paper](https://arxiv.org/abs/2308.12112) | C-GCD |
+| Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery| **ECCV 2024**| [Paper](https://arxiv.org/abs/2308.12112) · [Code](https://github.com/grypesc/CAMP)| C-GCD |
 | Federated Generalized Category Discovery | **CVPR 2024** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Pu_Federated_Generalized_Category_Discovery_CVPR_2024_paper.pdf) | F-GCD |
 | Active Generalized Category Discovery | **CVPR 2024** | [Paper](https://arxiv.org/abs/2403.04272) · [Code](https://github.com/mashijie1028/ActiveGCD) | A-GCD |
 | SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.14371) · [Code](https://github.com/SarahRastegar/SelEx) | GCD |
