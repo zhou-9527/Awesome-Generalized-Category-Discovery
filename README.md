@@ -24,7 +24,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## Preprints
 | Paper | Venue | Links | Setting |
 |-------|---------------|-------|---------|
-| Generalized Category Discovery under the Long-Tailed Distribution | arXiv  | [Paper]([https://arxiv.org/abs/2507.04725](https://arxiv.org/abs/2506.12515)) | GCD |
+| Generalized Category Discovery under the Long-Tailed Distribution | arXiv  | [Paper](https://arxiv.org/abs/2506.12515) | GCD |
 | Unleashing the Power of Neural Collapse: Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery| arXiv  | [Paper](https://arxiv.org/abs/2507.04725) | GCD |
 | Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2410.13285) · [Code](https://github.com/algpy/conceptGCD) | GCD |
 | Revisiting Mutual Information Maximization for Generalized Category Discovery | arXiv  | [Paper](https://arxiv.org/abs/2405.20711) | GCD |
@@ -59,6 +59,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery | **NeurIPS 2024** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/70270a1bc28ecb2a2aefad566c5e556b-Paper-Conference.pdf)  | GCD |
 | SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.14371) · [Code](https://github.com/SarahRastegar/SelEx) | GCD |
 | Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2403.07369) · [Code](https://github.com/HaiyangZheng/TextGCD) | GCD |
+| Solving the Catastrophic Forgetting Problem in Generalized Category Discovery| **CVPR 2024** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Solving_the_Catastrophic_Forgetting_Problem_in_Generalized_Category_Discovery_CVPR_2024_paper.pdf) · [Code](https://github.com/Cliffia123/LegoGCD?tab=readme-ov-file) | GCD |
 | Contrastive Mean-Shift Learning for Generalized Category Discovery | **CVPR 2024** | [Paper](https://arxiv.org/abs/2404.09451) · [Code](https://github.com/sua-choi/CMS) | GCD |
 | Contextuality Helps Representation Learning for Generalized Category Discovery | **ICIP 2024** | [Paper](https://arxiv.org/abs/2407.19752) · [Code](https://github.com/Clarence-CV/Contexuality-GCD) | GCD |
 | SPTNet: Spatial Prompt Tuning for Generalized Category Discovery | **ICLR 2024** | [Paper](https://arxiv.org/abs/2403.13684) · [Code](https://github.com/Visual-AI/SPTNet) | GCD |
