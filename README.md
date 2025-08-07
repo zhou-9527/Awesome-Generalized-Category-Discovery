@@ -28,7 +28,6 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery | arXiv  | [Paper](https://arxiv.org/abs/2404.08995) · [Code](https://github.com/xjtuYW/PNP) | GCD |
 | Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2401.13325) | GCD |
 | Generalized Category Discovery with Large Language Models in the Loop | arXiv | [Paper](https://arxiv.org/abs/2312.10897) | GCD |
-| Generalized Continual Category Discovery | arXiv| [Paper](https://arxiv.org/abs/2308.12112) | C-GCD |
 | OpenGCD: Assisting Open-World Recognition with Generalized Category Discovery | arXiv| [Paper](https://arxiv.org/abs/2308.06926) · [Code](https://github.com/Fulin-Gao/OpenGCD) | GCD |
 | CLIP-GCD: Simple Language-Guided Generalized Category Discovery | arXiv| [Paper](https://arxiv.org/abs/2305.10420) | GCD |
 | CiPR: Cross-Instance Positive Relations for Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2304.06928) | GCD |
@@ -51,6 +50,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Happy: A Debiased Learning Framework for Continual Generalized Category Discovery | **NeurIPS 2024** | [Paper](https://arxiv.org/abs/2410.06535) · [Code](https://github.com/mashijie1028/Happy-CGCD) | C-GCD |
 | PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2407.19001) · [Code](https://github.com/Visual-AI/PromptCCD) | C-GCD |
 | Online Continuous Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.13492) · [Code](https://github.com/KHU-AGI/OCGCD) | C-GCD |
+| Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery| **ECCV 2024**| [Paper](https://arxiv.org/abs/2308.12112) | C-GCD |
 | Federated Generalized Category Discovery | **CVPR 2024** | [Paper](https://arxiv.org/abs/2305.14107) | Fed-GCD |
 | Active Generalized Category Discovery | **CVPR 2024** | [Paper](https://arxiv.org/abs/2403.04272) · [Code](https://github.com/mashijie1028/ActiveGCD) | Active-GCD |
 | SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.14371) · [Code](https://github.com/SarahRastegar/SelEx) | GCD |
@@ -88,8 +88,3 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
 | Generalized Category Discovery | **CVPR 2022** | [Paper](https://arxiv.org/abs/2201.02609) · [Code](https://github.com/sgvaze/generalized-category-discovery) | GCD |
-| Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery | **CVPR 2022** | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf) · [Code](https://github.com/muliyangm/ComEx) | GCD |
-| Spacing Loss for Discovering Novel Categories | **CVPR Wkshp 2022** | [Paper](https://arxiv.org/abs/2204.10595) | GCD |
-| Open-World Semi-Supervised Learning | **ICLR 2022** | [Paper](https://arxiv.org/abs/2102.03526) · [Code](https://github.com/snap-stanford/orca) | OW-SSL |
-| OpenLDN: Learning to Discover Novel Classes for Open-World SSL | **ECCV 2022** | [Paper](https://arxiv.org/abs/2207.02261) · [Code](https://github.com/nayeemrizve/OpenLDN) | OW-SSL |
-| Towards Realistic Semi-Supervised Learning | **ECCV 2022** | [Paper](https://arxiv.org/abs/2207.02269) · [Code](https://github.com/nayeemrizve/TRSSL) | OW-SSL |
