@@ -26,6 +26,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 |-------|---------------|-------|---------|
 | Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2410.13285) · [Code](https://github.com/algpy/conceptGCD) | GCD |
 | Revisiting Mutual Information Maximization for Generalized Category Discovery | arXiv  | [Paper](https://arxiv.org/abs/2405.20711) | GCD |
+| Unleashing the Power of Neural Collapse: Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery| arXiv  | [Paper](https://arxiv.org/abs/2507.04725) | GCD |
 | Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery | arXiv  | [Paper](https://arxiv.org/abs/2404.08995) · [Code](https://github.com/xjtuYW/PNP) | GCD |
 | Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2401.13325) | GCD |
 | Generalized Category Discovery with Large Language Models in the Loop | arXiv | [Paper](https://arxiv.org/abs/2312.10897) | GCD |
