@@ -59,7 +59,6 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | SPTNet: Spatial Prompt Tuning for Generalized Category Discovery | **ICLR 2024** | [Paper](https://arxiv.org/abs/2403.13684) · [Code](https://github.com/Visual-AI/SPTNet) | GCD |
 | Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery | **WACV 2024** | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) · [Code](https://github.com/J-L-O/guided-cluster-aggregation) | GCD |
 | AMEND: Adaptive Margin and Expanded Neighborhood for Efficient Generalized Category Discovery | **WACV 2024** | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Banerjee_AMEND_Adaptive_Margin_and_Expanded_Neighborhood_for_Efficient_Generalized_Category_WACV_2024_paper.pdf) · [Code](https://github.com/missBanerjee/AMEND) | GCD |
-| Prediction Consistency Regularization for Generalized Category Discovery | **Information Fusion 2024** | [Paper](https://github.com/DuannYu/PCR/blob/main/assets/PCR.pdf) · [Code](https://github.com/DuannYu/PCR) | GCD |
 | CiPR: Cross-Instance Positive Relations for Generalized Category Discovery |**TMLR**  | [Paper](https://arxiv.org/abs/2304.06928)·[Code](https://github.com/haoosz/CiPR)  | GCD |
 
 ---
