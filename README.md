@@ -27,7 +27,6 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | arXiv 2024-08 | [Paper](https://arxiv.org/abs/2408.04591) | GCD |
 | Revisiting Mutual Information Maximization for Generalized Category Discovery | arXiv 2024-05 | [Paper](https://arxiv.org/abs/2405.20711) | GCD |
 | Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery | arXiv 2024-04 | [Paper](https://arxiv.org/abs/2404.08995) · [Code](https://github.com/xjtuYW/PNP) | GCD |
-| GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery | arXiv 2024-03 | [Paper](https://arxiv.org/abs/2403.09974) · [Code](https://github.com/enguangW/GET) | GCD |
 | Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | arXiv 2024-01 | [Paper](https://arxiv.org/abs/2401.13325) | GCD |
 | Generalized Category Discovery with Large Language Models in the Loop | arXiv 2023-12 | [Paper](https://arxiv.org/abs/2312.10897) | GCD |
 | Generalized Continual Category Discovery | arXiv 2023-08 | [Paper](https://arxiv.org/abs/2308.12112) | C-GCD |
@@ -41,7 +40,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
 | ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery | **TPAMI 2025** | [Paper](https://arxiv.org/abs/2504.03755) · [Code](https://github.com/mashijie1028/ProtoGCD) | GCD |
-
+| GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2403.09974) · [Code](https://github.com/enguangW/GET) | GCD |
 ---
 
 ## 2024
