@@ -44,7 +44,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Less Attention is More: Prompt Transformer for Generalized Category Discovery  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)| GCD |
 | MOS: Modeling Object-Scene Associations in Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.12035) · [Code](https://github.com/JethroPeng/MOS?tab=readme-ov-file) | GCD |
 | HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | **ICLR 2025** | [Paper](https://arxiv.org/abs/2408.04591)· [Code](https://github.com/Visual-AI/HiLo) | GCD |
-
+| DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery | **ICLR 2025** | [Paper](https://arxiv.org/abs/2504.04804)| GCD |
 
 ---
 
