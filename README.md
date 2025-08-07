@@ -50,7 +50,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2407.19001) · [Code](https://github.com/Visual-AI/PromptCCD) | C-GCD |
 | Online Continuous Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.13492) · [Code](https://github.com/KHU-AGI/OCGCD) | C-GCD |
 | Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery| **ECCV 2024**| [Paper](https://arxiv.org/abs/2308.12112) | C-GCD |
-| Federated Generalized Category Discovery | **CVPR 2024** | [Paper](https://arxiv.org/abs/2305.14107) | Fed-GCD |
+| Federated Generalized Category Discovery | **CVPR 2024** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Pu_Federated_Generalized_Category_Discovery_CVPR_2024_paper.pdf) | Fed-GCD |
 | Active Generalized Category Discovery | **CVPR 2024** | [Paper](https://arxiv.org/abs/2403.04272) · [Code](https://github.com/mashijie1028/ActiveGCD) | Active-GCD |
 | SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.14371) · [Code](https://github.com/SarahRastegar/SelEx) | GCD |
 | Contrastive Mean-Shift Learning for Generalized Category Discovery | **CVPR 2024** | [Paper](https://arxiv.org/abs/2404.09451) · [Code](https://github.com/sua-choi/CMS) | GCD |
