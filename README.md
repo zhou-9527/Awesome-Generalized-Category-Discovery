@@ -43,7 +43,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery | **TPAMI 2025** | [Paper](https://arxiv.org/abs/2504.03755) · [Code](https://github.com/mashijie1028/ProtoGCD) | GCD |
 | A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention | **ICCV 2025** | [Paper](https://arxiv.org/abs/2507.14315) · [Code](https://github.com/Afleve/AFGCD) | GCD |
 | Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction| **ICCV 2025** | [Paper](https://arxiv.org/abs/2508.10731) · [Code](https://github.com/lytang63/ConGCD)| GCD |
-| AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery | **ICCV 2025** |-| GCD |
+| AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery | **ICCV 2025** |[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Cao_AllGCD_Leveraging_All_Unlabeled_Data_for_Generalized_Category_Discovery_ICCV_2025_paper.pdf) | GCD |
 | Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization | **ICML 2025** |-[Paper](https://icml.cc/virtual/2025/poster/43993) · [Code](https://github.com/APORduo/RLCD)| GCD |
 | Towards Understanding Parametric Generalized Category Discovery on Graphs | **ICML 2025** |[Paper](https://icml.cc/virtual/2025/poster/45645)| GCD |
 | Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective | **ICML 2025** |[Paper](https://icml.cc/virtual/2025/poster/45679) ·[Code](https://github.com/daihao42/VB-CGCD)| C-GCD |
