@@ -54,6 +54,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | **ICLR 2025** | [Paper](https://arxiv.org/abs/2408.04591)· [Code](https://github.com/Visual-AI/HiLo) | GCD |
 | DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery | **ICLR 2025** | [Paper](https://arxiv.org/abs/2504.04804)| GCD |
 | When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.14897) · [Code](https://github.com/Shubh-Nil/D_GCD) | D-GCD |
+| Hyperbolic Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2504.06120) · [Code](https://visual-ai.github.io/hypcd/) | GCD |
 
 ---
 
