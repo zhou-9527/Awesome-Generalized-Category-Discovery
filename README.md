@@ -41,6 +41,11 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
 | ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery | **TPAMI 2025** | [Paper](https://arxiv.org/abs/2504.03755) · [Code](https://github.com/mashijie1028/ProtoGCD) | GCD |
+| SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2510.18740) | GCD |
+| Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2507.04725)  | GCD |
+| Generalized Category Discovery under Domain Shift: A Frequency Domain Perspective | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2511.00573#:~:text=In%20this%20paper%2C%20we%20explore%20a%20more%20realistic,unknown%20categories%20but%20also%20samples%20from%20unknown%20domains.) | D-GCD |
+| HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2510.17188) · [Code](https://github.com/dgibn/HIDISC)| D-GCD |
+| FedLPA: Local Prior Alignment for Heterogeneous Federated Generalized Category Discovery | **NeurIPS 2025** | [Paper](https://openreview.net/forum?id=QzOBE4mi2N) | F-GCD |
 | A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention | **ICCV 2025** | [Paper](https://arxiv.org/abs/2507.14315) · [Code](https://github.com/Afleve/AFGCD) | GCD |
 | Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction| **ICCV 2025** | [Paper](https://arxiv.org/abs/2508.10731) · [Code](https://github.com/lytang63/ConGCD)| GCD |
 | AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery | **ICCV 2025** |[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Cao_AllGCD_Leveraging_All_Unlabeled_Data_for_Generalized_Category_Discovery_ICCV_2025_paper.pdf) | GCD |
@@ -51,10 +56,10 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Adaptive_Part_Learning_for_Fine-Grained_Generalized_Category_Discovery_A_Plug-and-Play_CVPR_2025_paper.pdf) | GCD |
 | Less Attention is More: Prompt Transformer for Generalized Category Discovery  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)| GCD |
 | MOS: Modeling Object-Scene Associations in Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.12035) · [Code](https://github.com/JethroPeng/MOS?tab=readme-ov-file) | GCD |
-| HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | **ICLR 2025** | [Paper](https://arxiv.org/abs/2408.04591)· [Code](https://github.com/Visual-AI/HiLo) | GCD |
-| DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery | **ICLR 2025** | [Paper](https://arxiv.org/abs/2504.04804)| GCD |
 | When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.14897) · [Code](https://github.com/Shubh-Nil/D_GCD) | D-GCD |
 | Hyperbolic Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2504.06120) · [Code](https://visual-ai.github.io/hypcd/) | GCD |
+| HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | **ICLR 2025** | [Paper](https://arxiv.org/abs/2408.04591)· [Code](https://github.com/Visual-AI/HiLo) | GCD |
+| DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery | **ICLR 2025** | [Paper](https://arxiv.org/abs/2504.04804)| GCD |
 
 ---
 
