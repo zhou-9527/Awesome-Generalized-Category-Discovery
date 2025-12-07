@@ -8,6 +8,9 @@ Generalized Category Discovery (GCD) extends classic Novel Class Discovery by jo
 - **Domain-GCD**&nbsp;– Domain Generalized Category discovery (DGCD)
 - **OW-SSL** &nbsp;– Open-World Semi-Supervised Learning (commonly used baseline)
 
+> **Contributions welcome!** Everyone is welcome to help improve this project – see [Contributing](#contributing) for how to get involved.
+
+
 Below is a non-exhaustive, continuously updated list of GCD papers.
 
 ---
@@ -18,7 +21,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 3. [2024](#2024)  
 4. [2023](#2023)  
 5. [2022 Foundations](#2022-foundations)
-
+6. [Contributing](#contributing)
 ---
 
 ## Preprints
@@ -109,3 +112,15 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
 | Generalized Category Discovery | **CVPR 2022** | [Paper](https://arxiv.org/abs/2201.02609) · [Code](https://github.com/sgvaze/generalized-category-discovery) | GCD |
+
+
+---
+
+## Contributing
+
+Everyone is welcome to help improve this project 🎉  
+
+If you have ideas or changes:  
+1. Fork this repository.  
+2. Make and commit your changes in your fork.  
+3. Open a Pull Request and I’ll merge it as soon as possible.
