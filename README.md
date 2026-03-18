@@ -39,6 +39,13 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | CLIP-GCD: Simple Language-Guided Generalized Category Discovery | arXiv| [Paper](https://arxiv.org/abs/2305.10420) | GCD |
 
 ---
+## 2026
+| Paper | Venue | Links | Setting |
+|-------|-------|-------|---------|
+| SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=PyfV9tFmdR) · [Code](https://github.com/miccunifi/SpectralGCD) | GCD |
+| Bures-Isotropy Alignment: Manifold Learning of Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=nfVKTJ1MJ3) · [Code](https://github.com/lytang63/BIA) | GCD |
+
+---
 
 ## 2025
 | Paper | Venue | Links | Setting |
@@ -63,6 +70,8 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Hyperbolic Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2504.06120) · [Code](https://visual-ai.github.io/hypcd/) | GCD |
 | HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | **ICLR 2025** | [Paper](https://arxiv.org/abs/2408.04591)· [Code](https://github.com/Visual-AI/HiLo) | GCD |
 | DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery | **ICLR 2025** | [Paper](https://arxiv.org/abs/2504.04804)| GCD |
+| Collaborative Cloud-edge Generalized Category Discovery | **ACM MM 2025** | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755490) | GCD |
+| Tree of Prompts: Aligning Hierarchical Visual Prior for Continual Generalized Category Discovery | **ACM MM 2025** | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755660) | C-GCD |
 
 ---
 
