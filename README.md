@@ -43,7 +43,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
 | Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2603.19918) · [Code](https://github.com/zhou-9527/AnaLogical-GCD) | GCD |
-| Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2602.19910) | GCD |
+| Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2602.19910)· [Code](https://github.com/hewei98/SSR2-GCD) | GCD |
 | The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2604.14176) · [Code](https://haiyangzheng.github.io/EAGC/) | GCD |
 | OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism | **CVPR Findings 2026** | [Paper](https://arxiv.org/abs/2604.14762) · [Code](https://github.com/Jordan-HS/OmniGCD) | GCD |
 | Learning a Fix and Explore Framework for Continuous Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37530) | C-GCD |
