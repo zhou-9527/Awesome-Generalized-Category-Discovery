@@ -17,11 +17,13 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 
 ## Contents
 1. [Preprints](#preprints)  
-2. [2025](#2025)  
-3. [2024](#2024)  
-4. [2023](#2023)  
-5. [2022 Foundations](#2022-foundations)
-6. [Contributing](#contributing)
+2. [2026](#2026)  
+3. [2025](#2025)  
+4. [2024](#2024)  
+5. [2023](#2023)  
+6. [2022 Foundations](#2022-foundations)
+7. [Contributing](#contributing)
+
 ---
 
 ## Preprints
@@ -45,15 +47,18 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2603.19918) · [Code](https://github.com/zhou-9527/AnaLogical-GCD) | GCD |
 | Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2602.19910) | GCD |
 | The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2604.14176) · [Code](https://haiyangzheng.github.io/EAGC/) | GCD |
+| Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Seeing_Through_the_Shift_Causality-Inspired_Robust_Generalized_Category_Discovery_CVPR_2026_paper.pdf) | D-GCD |
 | OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism | **CVPR Findings 2026** | [Paper](https://arxiv.org/abs/2604.14762) · [Code](https://github.com/Jordan-HS/OmniGCD) | GCD |
 | TAR: Token-Aware Refinement for Fine-Grained Generalized Category Discovery | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_TAR_Token-Aware_Refinement_for_Fine-grained_Generalized_Category_Discovery_CVPR_2026_paper.pdf) · [Code](https://github.com/VectorYangYiStar/TAR) | GCD |
 | Decouple Your Discovery and Memory in Continual Generalized Category Discovery | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Decouple_Your_Discovery_and_Memory_in_Continual_Generalized_Category_Discovery_CVPR_2026_paper.pdf) | C-GCD |
+| SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SECOS_Semantic_Capture_for_Rigorous_Classification_in_Open-World_Semi-Supervised_Learning_CVPR_2026_paper.pdf) · [Code](https://github.com/ganchi-huanggua/OSSL-Classification) | OW-SSL |
 | Learning a Fix and Explore Framework for Continuous Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37530) | C-GCD |
 | Foundation-Adaptive Integrated Refinement for Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37231) | GCD |
 | GOAL: Geometrically Optimal Alignment for Continual Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/42456) | C-GCD |
 | Learning Intrinsic Hierarchy for Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39236) | GCD |
 | TGCD: A Framework for Generalized Category Discovery in Time-Series Data | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39271) | GCD |
 | Leveraging Image-text Pairs for Generalized Category Discovery in Medical Image Classification | **TMI 2026** | [Paper](https://doi.org/10.1109/TMI.2026.3689859) | GCD |
+| Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | **IJCV 2026** | [Paper](https://doi.org/10.1007/s11263-026-02745-y) | GCD |
 | SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=PyfV9tFmdR) · [Code](https://github.com/miccunifi/SpectralGCD) | GCD |
 | Bures-Isotropy Alignment: Manifold Learning of Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=nfVKTJ1MJ3) · [Code](https://github.com/lytang63/BIA) | GCD |
 | PRISM: Progressive Robust Learning for Open-World Continual Category Discovery under Domain Shift | **ICLR 2026** | [Paper](https://openreview.net/forum?id=5JwUWsewWH) | C-GCD |
