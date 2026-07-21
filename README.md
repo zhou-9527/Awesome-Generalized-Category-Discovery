@@ -44,9 +44,9 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## 2026
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
-| Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2603.19918) · [Code](https://github.com/zhou-9527/AnaLogical-GCD) | GCD |
 | Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2602.19910) | GCD |
 | The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2604.14176) · [Code](https://haiyangzheng.github.io/EAGC/) | GCD |
+| Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2603.19918) · [Code](https://github.com/zhou-9527/AnaLogical-GCD) | GCD |
 | Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Seeing_Through_the_Shift_Causality-Inspired_Robust_Generalized_Category_Discovery_CVPR_2026_paper.pdf) | D-GCD |
 | OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism | **CVPR Findings 2026** | [Paper](https://arxiv.org/abs/2604.14762) · [Code](https://github.com/Jordan-HS/OmniGCD) | GCD |
 | TAR: Token-Aware Refinement for Fine-Grained Generalized Category Discovery | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_TAR_Token-Aware_Refinement_for_Fine-grained_Generalized_Category_Discovery_CVPR_2026_paper.pdf) · [Code](https://github.com/VectorYangYiStar/TAR) | GCD |
@@ -62,6 +62,15 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=PyfV9tFmdR) · [Code](https://github.com/miccunifi/SpectralGCD) | GCD |
 | Bures-Isotropy Alignment: Manifold Learning of Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=nfVKTJ1MJ3) · [Code](https://github.com/lytang63/BIA) | GCD |
 | PRISM: Progressive Robust Learning for Open-World Continual Category Discovery under Domain Shift | **ICLR 2026** | [Paper](https://openreview.net/forum?id=5JwUWsewWH) | C-GCD |
+| Compositional Perception and Generalizing Induction: Latent Compositional Manifold Assumption on Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/63315) | GCD |
+| CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/64944) | GCD |
+| Identifying Latent Concepts and Structures for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/62711) · [Code](https://github.com/Michael-McQueen/CPF) | GCD |
+| PartCo: Part-Level Correspondence Priors Enhance Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/63813) | GCD |
+| Reliable Confidence Alignment for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/60477) | GCD |
+| GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery | **ACL 2026** | [Paper](https://aclanthology.org/2026.acl-long.107/) | GCD |
+| TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery | **ACL 2026** | [Paper](https://aclanthology.org/2026.acl-long.869/) · [Code](https://github.com/Wenxi-Xu/TLSA) | GCD |
+| BOLT: Benchmarking Open-World Learning for Text Classification | **ACL Findings 2026** | [Paper](https://aclanthology.org/2026.findings-acl.667/) · [Code](https://github.com/CNIC-DSL/BOLT) | GCD |
+
 
 ---
 
