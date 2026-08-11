@@ -60,7 +60,14 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Learning Intrinsic Hierarchy for Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39236) | GCD |
 | TGCD: A Framework for Generalized Category Discovery in Time-Series Data | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39271) | GCD |
 | Leveraging Image-text Pairs for Generalized Category Discovery in Medical Image Classification | **TMI 2026** | [Paper](https://doi.org/10.1109/TMI.2026.3689859) | GCD |
+| AdaptGCD: Multi-Expert Adapter Tuning for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3602981) | GCD |
+| Margin-Aware Prototype Debiasing for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3642144) | GCD |
+| A Fresh Look at Generalized Category Discovery Through Non-Negative Matrix Factorization | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3662759) | GCD |
+| OpenBPR: Bias-Guided Pseudo-Label Refinement for Open-World Semi-Supervised Learning | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3685347) | OW-SSL |
+| Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery | **TMM 2026** | [Paper](https://doi.org/10.1109/TMM.2026.3668655) | GCD |
+| Sharpness-Aware Dynamic Anchor Selection for Generalized Category Discovery | **TMM 2026** | [Paper](https://doi.org/10.1109/TMM.2026.3654349) | GCD |
 | Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | **IJCV 2026** | [Paper](https://doi.org/10.1007/s11263-026-02745-y) | GCD |
+| Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts | **IJCV 2026** | [Paper](https://doi.org/10.1007/s11263-026-02970-5) · [Code](https://github.com/HaiyangZheng/MGCE) | GCD |
 | SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=PyfV9tFmdR) · [Code](https://github.com/miccunifi/SpectralGCD) | GCD |
 | Bures-Isotropy Alignment: Manifold Learning of Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=nfVKTJ1MJ3) · [Code](https://github.com/lytang63/BIA) | GCD |
 | PRISM: Progressive Robust Learning for Open-World Continual Category Discovery under Domain Shift | **ICLR 2026** | [Paper](https://openreview.net/forum?id=5JwUWsewWH) | C-GCD |
@@ -82,6 +89,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Mutual-support generalized category discovery | **Information Fusion 2025** | [Paper](https://doi.org/10.1016/j.inffus.2025.103020) | GCD |
 | ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery | **TPAMI 2025** | [Paper](https://arxiv.org/abs/2504.03755) · [Code](https://github.com/mashijie1028/ProtoGCD) | GCD |
 | Consistent Prompt Tuning for Generalized Category Discovery | **IJCV 2025** | [Paper](https://doi.org/10.1007/s11263-024-02343-w) | GCD |
+| DATA: Multi-Disentanglement Based Contrastive Learning for Open-World Semi-Supervised Deepfake Attribution | **TMM 2025** | [Paper](https://doi.org/10.1109/TMM.2025.3604932) | OW-SSL |
 | Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery | **TNNLS 2025** | [Paper](https://doi.org/10.1109/TNNLS.2025.3597074) · [Code](https://github.com/DuannYu/HypGCD) | GCD |
 | ReCL: A Plug-and-Play Module for Enhancing Generalized Category Discovery Using Transport-Based Method to Uncover the Relationship in Samples | **TNNLS 2025** | [Paper](https://doi.org/10.1109/TNNLS.2025.3598594) | GCD |
 | Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification | **TNNLS 2025** | [Paper](https://doi.org/10.1109/TNNLS.2025.3544405) | OW-SSL |
