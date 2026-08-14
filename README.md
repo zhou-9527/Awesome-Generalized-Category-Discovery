@@ -64,6 +64,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Margin-Aware Prototype Debiasing for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3642144) | GCD |
 | A Fresh Look at Generalized Category Discovery Through Non-Negative Matrix Factorization | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3662759) | GCD |
 | OpenBPR: Bias-Guided Pseudo-Label Refinement for Open-World Semi-Supervised Learning | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3685347) | OW-SSL |
+| Exploiting Category Relationship Regularization for Generalized Category Discovery | **TMM 2026** | [Paper](https://doi.org/10.1109/TMM.2026.3723616) | GCD |
 | Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery | **TMM 2026** | [Paper](https://doi.org/10.1109/TMM.2026.3668655) | GCD |
 | Sharpness-Aware Dynamic Anchor Selection for Generalized Category Discovery | **TMM 2026** | [Paper](https://doi.org/10.1109/TMM.2026.3654349) | GCD |
 | Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | **IJCV 2026** | [Paper](https://doi.org/10.1007/s11263-026-02745-y) | GCD |
@@ -76,7 +77,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Identifying Latent Concepts and Structures for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/62711) · [Code](https://github.com/Michael-McQueen/CPF) | GCD |
 | PartCo: Part-Level Correspondence Priors Enhance Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/63813) | GCD |
 | Reliable Confidence Alignment for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/60477) | GCD |
-| GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery | **ACL 2026** | [Paper](https://aclanthology.org/2026.acl-long.107/) | GCD |
+| GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery | **ACL 2026** | [Paper](https://aclanthology.org/2026.acl-long.107/) · [Code](https://github.com/cx9941/GenDis) | GCD |
 | TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery | **ACL 2026** | [Paper](https://aclanthology.org/2026.acl-long.869/) · [Code](https://github.com/Wenxi-Xu/TLSA) | GCD |
 | BOLT: Benchmarking Open-World Learning for Text Classification | **ACL Findings 2026** | [Paper](https://aclanthology.org/2026.findings-acl.667/) · [Code](https://github.com/CNIC-DSL/BOLT) | GCD |
 
@@ -92,8 +93,8 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | DATA: Multi-Disentanglement Based Contrastive Learning for Open-World Semi-Supervised Deepfake Attribution | **TMM 2025** | [Paper](https://doi.org/10.1109/TMM.2025.3604932) | OW-SSL |
 | Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery | **TNNLS 2025** | [Paper](https://doi.org/10.1109/TNNLS.2025.3597074) · [Code](https://github.com/DuannYu/HypGCD) | GCD |
 | ReCL: A Plug-and-Play Module for Enhancing Generalized Category Discovery Using Transport-Based Method to Uncover the Relationship in Samples | **TNNLS 2025** | [Paper](https://doi.org/10.1109/TNNLS.2025.3598594) | GCD |
-| Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification | **TNNLS 2025** | [Paper](https://doi.org/10.1109/TNNLS.2025.3544405) | OW-SSL |
-| SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2510.18740) | GCD |
+| Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification | **TNNLS 2025** | [Paper](https://doi.org/10.1109/TNNLS.2025.3544405) · [Code](https://github.com/ascetic-monk/DSCL) | OW-SSL |
+| SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2510.18740) · [Code](https://github.com/Visual-AI/SEAL) | GCD |
 | Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2507.04725)  | GCD |
 | Generalized Category Discovery under Domain Shift: A Frequency Domain Perspective | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2511.00573#:~:text=In%20this%20paper%2C%20we%20explore%20a%20more%20realistic,unknown%20categories%20but%20also%20samples%20from%20unknown%20domains.) | D-GCD |
 | HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery | **NeurIPS 2025** | [Paper](https://arxiv.org/abs/2510.17188) · [Code](https://github.com/dgibn/HIDISC)| D-GCD |
@@ -106,16 +107,16 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective | **ICML 2025** |[Paper](https://icml.cc/virtual/2025/poster/45679) ·[Code](https://github.com/daihao42/VB-CGCD)| C-GCD |
 | GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2403.09974) · [Code](https://github.com/enguangW/GET) | GCD |
 | Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Adaptive_Part_Learning_for_Fine-Grained_Generalized_Category_Discovery_A_Plug-and-Play_CVPR_2025_paper.pdf) | GCD |
-| Less Attention is More: Prompt Transformer for Generalized Category Discovery  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)| GCD |
+| Less Attention is More: Prompt Transformer for Generalized Category Discovery  | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf) · [Code](https://github.com/wendy26zhang/AptGCD)| GCD |
 | MOS: Modeling Object-Scene Associations in Generalized Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.12035) · [Code](https://github.com/JethroPeng/MOS?tab=readme-ov-file) | GCD |
-| When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.14897) · [Code](https://github.com/Shubh-Nil/D_GCD) | D-GCD |
+| When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach | **CVPR 2025** | [Paper](https://arxiv.org/abs/2503.14897) · [Code](https://github.com/Shubh-Nil/D-GCD) | D-GCD |
 | Hyperbolic Category Discovery | **CVPR 2025** | [Paper](https://arxiv.org/abs/2504.06120) · [Code](https://visual-ai.github.io/hypcd/) | GCD |
-| Learning Textual Prompts for Open-World Semi-Supervised Learning | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.pdf) | OW-SSL |
+| Learning Textual Prompts for Open-World Semi-Supervised Learning | **CVPR 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.pdf) · [Code](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Fan_Learning_Textual_Prompts_CVPR_2025_supplemental.zip) | OW-SSL |
 | Multimodal Generalized Category Discovery | **CVPR Workshop 2025** | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/TMM-OpenWorld/papers/Su_Multimodal_Generalized_Category_Discovery_CVPRW_2025_paper.pdf) | GCD |
 | HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts | **ICLR 2025** | [Paper](https://arxiv.org/abs/2408.04591)· [Code](https://github.com/Visual-AI/HiLo) | GCD |
-| DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery | **ICLR 2025** | [Paper](https://arxiv.org/abs/2504.04804)| GCD |
-| Unleashing the Potential of Model Bias for Generalized Category Discovery | **AAAI 2025** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33686) | GCD |
-| Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery | **AAAI 2025** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35414) | GCD |
+| DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery | **ICLR 2025** | [Paper](https://arxiv.org/abs/2504.04804) · [Code](https://github.com/Visual-AI/DebGCD)| GCD |
+| Unleashing the Potential of Model Bias for Generalized Category Discovery | **AAAI 2025** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33686) · [Code](https://github.com/Lackel/SDC) | GCD |
+| Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery | **AAAI 2025** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35414) · [Code](https://github.com/Terminator8758/PAL-GCD) | GCD |
 | Generalized Class Discovery in Instance Segmentation | **AAAI 2025** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32362) | GCD |
 | Collaborative Cloud-edge Generalized Category Discovery | **ACM MM 2025** | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755490) | GCD |
 | Tree of Prompts: Aligning Hierarchical Visual Prior for Continual Generalized Category Discovery | **ACM MM 2025** | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755660) | C-GCD |
