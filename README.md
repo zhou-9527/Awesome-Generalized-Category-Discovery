@@ -29,6 +29,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## Preprints
 | Paper | Venue | Links | Setting |
 |-------|---------------|-------|---------|
+| Category Discovery: An Open-World Perspective | arXiv | [Paper](https://arxiv.org/abs/2509.22542) · [Code1](https://github.com/Visual-AI/Awesome-Category-Discovery) · [Code2](https://github.com/Visual-AI/Category-Discovery) | Survey |
 | Generalized Category Discovery under the Long-Tailed Distribution | arXiv  | [Paper](https://arxiv.org/abs/2506.12515) | GCD |
 | GLEAN: Generalized Category Discovery with Diverse and Quality-Enhanced LLM Feedback | arXiv  |  [Paper](https://arxiv.org/abs/2502.18414) · [Code](https://github.com/amazon-science/Glean)| GCD |
 | Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery | arXiv  | [Paper](https://arxiv.org/abs/2504.08550) | C-GCD |
