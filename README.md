@@ -29,14 +29,12 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## Preprints
 | Paper | Venue | Links | Setting |
 |-------|---------------|-------|---------|
+| Virtual Category-Guided Continual Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2607.04984) · [Code](https://github.com/Mrxjh105/VC-CGCD) | C-GCD |
+| Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models | arXiv | [Paper](https://arxiv.org/abs/2605.00906) · [Code](https://github.com/Visual-AI/HiLo) | D-GCD |
 | Generalized Category Discovery under the Long-Tailed Distribution | arXiv  | [Paper](https://arxiv.org/abs/2506.12515) | GCD |
-| GLEAN: Generalized Category Discovery with Diverse and Quality-Enhanced LLM Feedback | arXiv  |  [Paper](https://arxiv.org/abs/2502.18414) · [Code](https://github.com/amazon-science/Glean)| GCD |
-| Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery | arXiv  | [Paper](https://arxiv.org/abs/2504.08550) | C-GCD |
 | Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2410.13285) · [Code](https://github.com/algpy/conceptGCD) | GCD |
 | Revisiting Mutual Information Maximization for Generalized Category Discovery | arXiv  | [Paper](https://arxiv.org/abs/2405.20711) | GCD |
 | Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery | arXiv  | [Paper](https://arxiv.org/abs/2404.08995) · [Code](https://github.com/xjtuYW/PNP) | GCD |
-| Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2401.13325) | GCD |
-| Generalized Category Discovery with Large Language Models in the Loop | arXiv | [Paper](https://arxiv.org/abs/2312.10897) | GCD |
 | OpenGCD: Assisting Open-World Recognition with Generalized Category Discovery | arXiv| [Paper](https://arxiv.org/abs/2308.06926) · [Code](https://github.com/Fulin-Gao/OpenGCD) | GCD |
 | CLIP-GCD: Simple Language-Guided Generalized Category Discovery | arXiv| [Paper](https://arxiv.org/abs/2305.10420) | GCD |
 
@@ -60,6 +58,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Learning Intrinsic Hierarchy for Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39236) | GCD |
 | TGCD: A Framework for Generalized Category Discovery in Time-Series Data | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39271) | GCD |
 | Leveraging Image-text Pairs for Generalized Category Discovery in Medical Image Classification | **TMI 2026** | [Paper](https://doi.org/10.1109/TMI.2026.3689859) | GCD |
+| Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery | **TMLR 2026** | [Paper](https://openreview.net/pdf?id=P3Qe9yJRvf) · [Code](https://github.com/NumOne01/CATEGORIZER) | C-GCD |
 | AdaptGCD: Multi-Expert Adapter Tuning for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3602981) | GCD |
 | Margin-Aware Prototype Debiasing for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3642144) | GCD |
 | A Fresh Look at Generalized Category Discovery Through Non-Negative Matrix Factorization | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3662759) | GCD |
@@ -80,6 +79,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery | **ACL 2026** | [Paper](https://aclanthology.org/2026.acl-long.107/) · [Code](https://github.com/cx9941/GenDis) | GCD |
 | TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery | **ACL 2026** | [Paper](https://aclanthology.org/2026.acl-long.869/) · [Code](https://github.com/Wenxi-Xu/TLSA) | GCD |
 | BOLT: Benchmarking Open-World Learning for Text Classification | **ACL Findings 2026** | [Paper](https://aclanthology.org/2026.findings-acl.667/) · [Code](https://github.com/CNIC-DSL/BOLT) | GCD |
+| Active Generalized Category Discovery with Diverse LLM Feedback | **EACL 2026** | [Paper](https://aclanthology.org/2026.eacl-long.358/) · [Code](https://github.com/amazon-science/Glean) | A-GCD |
 
 
 ---
@@ -126,6 +126,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## 2024
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
+| Generalized Category Discovery with Large Language Models in the Loop | **ACL Findings 2024** | [Paper](https://aclanthology.org/2024.findings-acl.512/) · [Code](https://github.com/Lackel/LOOP) | GCD |
 | Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery | **NeurIPS 2024** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/70270a1bc28ecb2a2aefad566c5e556b-Paper-Conference.pdf)  | GCD |
 | SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2408.14371) · [Code](https://github.com/SarahRastegar/SelEx) | GCD |
 | Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery | **ECCV 2024** | [Paper](https://arxiv.org/abs/2403.07369) · [Code](https://github.com/HaiyangZheng/TextGCD) | GCD |
