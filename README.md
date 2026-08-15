@@ -29,8 +29,10 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## Preprints
 | Paper | Venue | Links | Setting |
 |-------|---------------|-------|---------|
+| Category Discovery: An Open-World Perspective | arXiv | [Paper](https://arxiv.org/abs/2509.22542) · [Code1](https://github.com/Visual-AI/Awesome-Category-Discovery) · [Code2](https://github.com/Visual-AI/Category-Discovery) | Survey |
 | Virtual Category-Guided Continual Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2607.04984) · [Code](https://github.com/Mrxjh105/VC-CGCD) | C-GCD |
 | Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models | arXiv | [Paper](https://arxiv.org/abs/2605.00906) · [Code](https://github.com/Visual-AI/HiLo) | D-GCD |
+| Category Discovery: An Open-World Perspective | arXiv | [Paper](https://arxiv.org/abs/2509.22542) · [Code1](https://github.com/Visual-AI/Awesome-Category-Discovery) · [Code2](https://github.com/Visual-AI/Category-Discovery) | Survey |
 | Generalized Category Discovery under the Long-Tailed Distribution | arXiv  | [Paper](https://arxiv.org/abs/2506.12515) | GCD |
 | Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2410.13285) · [Code](https://github.com/algpy/conceptGCD) | GCD |
 | Revisiting Mutual Information Maximization for Generalized Category Discovery | arXiv  | [Paper](https://arxiv.org/abs/2405.20711) | GCD |
