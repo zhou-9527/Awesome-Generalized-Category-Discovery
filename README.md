@@ -46,7 +46,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Topology-Aware Neural Collapse for Generalized Category Discovery on Graphs | **KDD 2026** | [Paper](https://doi.org/10.1145/3770855.3817835) · [Code](https://github.com/XuanzhiXi/TopoNC) | GCD |
 | Happy++: Towards Stable and Unified Continual Generalized Category Discovery | **TPAMI 2026** | [Paper](https://doi.org/10.1109/TPAMI.2026.3721625) | C-GCD |
 | Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2603.19918) · [Code](https://github.com/zhou-9527/AnaLogical-GCD) | GCD |
-| Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2602.19910) | GCD |
+| Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2602.19910) · [Code](https://github.com/hewei98/SSR2-GCD) | GCD |
 | The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2604.14176) · [Code](https://haiyangzheng.github.io/EAGC/) | GCD |
 | Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Seeing_Through_the_Shift_Causality-Inspired_Robust_Generalized_Category_Discovery_CVPR_2026_paper.pdf) | D-GCD |
 | OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism | **CVPR Findings 2026** | [Paper](https://arxiv.org/abs/2604.14762) · [Code](https://github.com/Jordan-HS/OmniGCD) | GCD |
@@ -54,13 +54,13 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Decouple Your Discovery and Memory in Continual Generalized Category Discovery | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Decouple_Your_Discovery_and_Memory_in_Continual_Generalized_Category_Discovery_CVPR_2026_paper.pdf) | C-GCD |
 | SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning | **CVPR 2026** | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SECOS_Semantic_Capture_for_Rigorous_Classification_in_Open-World_Semi-Supervised_Learning_CVPR_2026_paper.pdf) · [Code](https://github.com/ganchi-huanggua/OSSL-Classification) | OW-SSL |
 | Learning a Fix and Explore Framework for Continuous Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37530) | C-GCD |
-| Foundation-Adaptive Integrated Refinement for Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37231) | GCD |
+| Foundation-Adaptive Integrated Refinement for Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37231) · [Code](https://github.com/byw212/FAIR) | GCD |
 | GOAL: Geometrically Optimal Alignment for Continual Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/42456) | C-GCD |
-| Learning Intrinsic Hierarchy for Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39236) | GCD |
+| Learning Intrinsic Hierarchy for Generalized Category Discovery | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39236) · [Code](https://github.com/DuannYu/LEAH) | GCD |
 | TGCD: A Framework for Generalized Category Discovery in Time-Series Data | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39271) | GCD |
 | Leveraging Image-text Pairs for Generalized Category Discovery in Medical Image Classification | **TMI 2026** | [Paper](https://doi.org/10.1109/TMI.2026.3689859) | GCD |
 | Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery | **TMLR 2026** | [Paper](https://openreview.net/pdf?id=P3Qe9yJRvf) · [Code](https://github.com/NumOne01/CATEGORIZER) | C-GCD |
-| AdaptGCD: Multi-Expert Adapter Tuning for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3602981) | GCD |
+| AdaptGCD: Multi-Expert Adapter Tuning for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3602981) · [Code](https://github.com/ascetic-monk/AdaptGCD) | GCD |
 | Margin-Aware Prototype Debiasing for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3642144) | GCD |
 | A Fresh Look at Generalized Category Discovery Through Non-Negative Matrix Factorization | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3662759) | GCD |
 | OpenBPR: Bias-Guided Pseudo-Label Refinement for Open-World Semi-Supervised Learning | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3685347) | OW-SSL |
