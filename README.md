@@ -43,6 +43,8 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## 2026
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
+| Fourier Self-Supervision for Fine-Grained Generalized Category Discovery | **ECCV 2026** | [Paper](https://arxiv.org/abs/2608.08963) | GCD |
+| HVGCD:Rethinking Generalized Category Discovery through Hypothesis–Verification | **ECCV 2026** | [Paper](https://eccv.ecva.net/virtual/2026/poster/4898) | GCD |
 | Topology-Aware Neural Collapse for Generalized Category Discovery on Graphs | **KDD 2026** | [Paper](https://doi.org/10.1145/3770855.3817835) · [Code](https://github.com/XuanzhiXi/TopoNC) | GCD |
 | Happy++: Towards Stable and Unified Continual Generalized Category Discovery | **TPAMI 2026** | [Paper](https://doi.org/10.1109/TPAMI.2026.3721625) | C-GCD |
 | Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2603.19918) · [Code](https://github.com/zhou-9527/AnaLogical-GCD) | GCD |
