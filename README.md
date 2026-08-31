@@ -43,10 +43,14 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## 2026
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
+| CloSeR: Unified Relational Distillation from Closed-Set Teachers for Category Discovery | **ECCV 2026** | [Paper](https://arxiv.org/abs/2608.25692) | GCD |
+| Debiased Textual Prompt Tuning for Enhancing Unknown Class Discovery | **ECCV 2026** | [Paper](https://eccv.ecva.net/virtual/2026/poster/5403) | OW-SSL |
+| Generalized Category Discovery for Multi-Source AI-Generated Images | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3726997) | GCD |
+| Unlocking Optical Prior: Spectrum-Guided Knowledge Transfer for SAR Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3726430) | GCD |
 | Fourier Self-Supervision for Fine-Grained Generalized Category Discovery | **ECCV 2026** | [Paper](https://arxiv.org/abs/2608.08963) | GCD |
 | HVGCD:Rethinking Generalized Category Discovery through Hypothesis–Verification | **ECCV 2026** | [Paper](https://eccv.ecva.net/virtual/2026/poster/4898) | GCD |
 | Topology-Aware Neural Collapse for Generalized Category Discovery on Graphs | **KDD 2026** | [Paper](https://doi.org/10.1145/3770855.3817835) · [Code](https://github.com/XuanzhiXi/TopoNC) | GCD |
-| Happy++: Towards Stable and Unified Continual Generalized Category Discovery | **TPAMI 2026** | [Paper](https://doi.org/10.1109/TPAMI.2026.3721625) | C-GCD |
+| Happy++: Towards Stable and Unified Continual Generalized Category Discovery | **TPAMI 2026** | [Paper](https://doi.org/10.1109/TPAMI.2026.3721625) · [Code](https://github.com/mashijie1028/Happy-CGCD) | C-GCD |
 | Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2603.19918) · [Code](https://github.com/zhou-9527/AnaLogical-GCD) | GCD |
 | Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2602.19910) · [Code](https://github.com/hewei98/SSR2-GCD) | GCD |
 | The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery | **CVPR 2026** | [Paper](https://arxiv.org/abs/2604.14176) · [Code](https://haiyangzheng.github.io/EAGC/) | GCD |
@@ -90,7 +94,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## 2025
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
-| Mutual-support generalized category discovery | **Information Fusion 2025** | [Paper](https://doi.org/10.1016/j.inffus.2025.103020) | GCD |
+| Mutual-support generalized category discovery | **Information Fusion 2025** | [Paper](https://doi.org/10.1016/j.inffus.2025.103020) · [Code](https://github.com/DuannYu/MSGCD) | GCD |
 | ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery | **TPAMI 2025** | [Paper](https://arxiv.org/abs/2504.03755) · [Code](https://github.com/mashijie1028/ProtoGCD) | GCD |
 | Consistent Prompt Tuning for Generalized Category Discovery | **IJCV 2025** | [Paper](https://doi.org/10.1007/s11263-024-02343-w) | GCD |
 | DATA: Multi-Disentanglement Based Contrastive Learning for Open-World Semi-Supervised Deepfake Attribution | **TMM 2025** | [Paper](https://doi.org/10.1109/TMM.2025.3604932) | OW-SSL |
