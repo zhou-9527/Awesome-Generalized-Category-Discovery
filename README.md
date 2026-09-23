@@ -68,18 +68,18 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery | **TMLR 2026** | [Paper](https://openreview.net/pdf?id=P3Qe9yJRvf) · [Code](https://github.com/NumOne01/CATEGORIZER) | C-GCD |
 | AdaptGCD: Multi-Expert Adapter Tuning for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3602981) · [Code](https://github.com/ascetic-monk/AdaptGCD) | GCD |
 | Margin-Aware Prototype Debiasing for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3642144) | GCD |
-| A Fresh Look at Generalized Category Discovery Through Non-Negative Matrix Factorization | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3662759) | GCD |
+| A Fresh Look at Generalized Category Discovery Through Non-Negative Matrix Factorization | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3662759) · [Code](https://github.com/Programmergg/NN-GCD) | GCD |
 | OpenBPR: Bias-Guided Pseudo-Label Refinement for Open-World Semi-Supervised Learning | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3685347) | OW-SSL |
 | Exploiting Category Relationship Regularization for Generalized Category Discovery | **TMM 2026** | [Paper](https://doi.org/10.1109/TMM.2026.3723616) | GCD |
 | Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery | **TMM 2026** | [Paper](https://doi.org/10.1109/TMM.2026.3668655) | GCD |
 | Sharpness-Aware Dynamic Anchor Selection for Generalized Category Discovery | **TMM 2026** | [Paper](https://doi.org/10.1109/TMM.2026.3654349) | GCD |
-| Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | **IJCV 2026** | [Paper](https://doi.org/10.1007/s11263-026-02745-y) | GCD |
+| Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery | **IJCV 2026** | [Paper](https://doi.org/10.1007/s11263-026-02745-y) · [Code](https://github.com/yuanpengtu/MCDL) | GCD |
 | Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts | **IJCV 2026** | [Paper](https://doi.org/10.1007/s11263-026-02970-5) · [Code](https://github.com/HaiyangZheng/MGCE) | GCD |
 | SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=PyfV9tFmdR) · [Code](https://github.com/miccunifi/SpectralGCD) | GCD |
 | Bures-Isotropy Alignment: Manifold Learning of Generalized Category Discovery | **ICLR 2026** | [Paper](https://openreview.net/forum?id=nfVKTJ1MJ3) · [Code](https://github.com/lytang63/BIA) | GCD |
 | PRISM: Progressive Robust Learning for Open-World Continual Category Discovery under Domain Shift | **ICLR 2026** | [Paper](https://openreview.net/forum?id=5JwUWsewWH) | C-GCD |
-| Compositional Perception and Generalizing Induction: Latent Compositional Manifold Assumption on Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/63315) | GCD |
-| CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/64944) | GCD |
+| Compositional Perception and Generalizing Induction: Latent Compositional Manifold Assumption on Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/63315) · [Code](https://github.com/lytang63/CoGe-GCD) | GCD |
+| CURE: Consistency-under-Unified Semantic Regularization for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/64944) · [Code](https://github.com/byw212/CURE) | GCD |
 | Identifying Latent Concepts and Structures for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/62711) · [Code](https://github.com/Michael-McQueen/CPF) | GCD |
 | PartCo: Part-Level Correspondence Priors Enhance Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/63813) | GCD |
 | Reliable Confidence Alignment for Generalized Category Discovery | **ICML 2026** | [Paper](https://icml.cc/virtual/2026/poster/60477) | GCD |
