@@ -30,6 +30,8 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Paper | Venue | Links | Setting |
 |-------|---------------|-------|---------|
 | Category Discovery: An Open-World Perspective | arXiv | [Paper](https://arxiv.org/abs/2509.22542) · [Code1](https://github.com/Visual-AI/Awesome-Category-Discovery) · [Code2](https://github.com/Visual-AI/Category-Discovery) | Survey |
+| Test-Time Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2609.33937) | TT-GCD |
+| MedXplore: Towards Reliable and Unbiased Generalized Category Discovery in Medical Imaging | arXiv | [Paper](https://arxiv.org/abs/2607.27620) | GCD |
 | Virtual Category-Guided Continual Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2607.04984) · [Code](https://github.com/Mrxjh105/VC-CGCD) | C-GCD |
 | Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models | arXiv | [Paper](https://arxiv.org/abs/2605.00906) · [Code](https://github.com/Visual-AI/HiLo) | D-GCD |
 | Generalized Category Discovery under the Long-Tailed Distribution | arXiv  | [Paper](https://arxiv.org/abs/2506.12515) | GCD |
@@ -66,6 +68,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | TGCD: A Framework for Generalized Category Discovery in Time-Series Data | **AAAI 2026** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39271) | GCD |
 | Leveraging Image-text Pairs for Generalized Category Discovery in Medical Image Classification | **TMI 2026** | [Paper](https://doi.org/10.1109/TMI.2026.3689859) | GCD |
 | Proxy-Anchor and EVT-Driven Continual Learning Method for Generalized Category Discovery | **TMLR 2026** | [Paper](https://openreview.net/pdf?id=P3Qe9yJRvf) · [Code](https://github.com/NumOne01/CATEGORIZER) | C-GCD |
+| SIEFormer: Spectral-Interpretable and -Enhanced Transformer for Generalized Category Discovery | **TNNLS 2026** | [Paper](https://doi.org/10.1109/TNNLS.2026.3732746) · [Code](https://github.com/Ashengl/SIEFormer) | GCD |
 | AdaptGCD: Multi-Expert Adapter Tuning for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3602981) · [Code](https://github.com/ascetic-monk/AdaptGCD) | GCD |
 | Margin-Aware Prototype Debiasing for Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2025.3642144) | GCD |
 | A Fresh Look at Generalized Category Discovery Through Non-Negative Matrix Factorization | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3662759) · [Code](https://github.com/Programmergg/NN-GCD) | GCD |
