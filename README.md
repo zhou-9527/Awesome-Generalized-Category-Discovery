@@ -34,7 +34,6 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | HeteGCD: Statistics-Aware Dual-Prototype Learning for Generalized Category Discovery on Heterophilous Graphs | arXiv | [Paper](https://arxiv.org/abs/2610.36696) | GCD |
 | Test-Time Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2609.33937) | TT-GCD |
 | MedXplore: Towards Reliable and Unbiased Generalized Category Discovery in Medical Imaging | arXiv | [Paper](https://arxiv.org/abs/2607.27620) | GCD |
-| Virtual Category-Guided Continual Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2607.04984) · [Code](https://github.com/Mrxjh105/VC-CGCD) | C-GCD |
 | Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models | arXiv | [Paper](https://arxiv.org/abs/2605.00906) · [Code](https://github.com/Visual-AI/HiLo) | D-GCD |
 | Generalized Category Discovery under the Long-Tailed Distribution | arXiv  | [Paper](https://arxiv.org/abs/2506.12515) | GCD |
 | Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2410.13285) · [Code](https://github.com/algpy/conceptGCD) | GCD |
@@ -55,6 +54,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 | Unlocking Optical Prior: Spectrum-Guided Knowledge Transfer for SAR Generalized Category Discovery | **TCSVT 2026** | [Paper](https://doi.org/10.1109/TCSVT.2026.3726430) | GCD |
 | Fourier Self-Supervision for Fine-Grained Generalized Category Discovery | **ECCV 2026** | [Paper](https://arxiv.org/abs/2608.08963) | GCD |
 | HVGCD:Rethinking Generalized Category Discovery through Hypothesis–Verification | **ECCV 2026** | [Paper](https://eccv.ecva.net/virtual/2026/poster/4898) | GCD |
+| Virtual Category-Guided Continual Generalized Category Discovery | **ECCV 2026** | [Paper](https://arxiv.org/abs/2607.04984) · [Code](https://github.com/Mrxjh105/VC-CGCD) | C-GCD |
 | Topology-Aware Neural Collapse for Generalized Category Discovery on Graphs | **KDD 2026** | [Paper](https://doi.org/10.1145/3770855.3817835) · [Code](https://github.com/XuanzhiXi/TopoNC) | GCD |
 | Attribute-Evidence Learning with Multimodal Prompt for Generalized Category Discovery | **TPAMI 2026** | [Paper](https://doi.org/10.1109/TPAMI.2026.3748640) | GCD |
 | Happy++: Towards Stable and Unified Continual Generalized Category Discovery | **TPAMI 2026** | [Paper](https://doi.org/10.1109/TPAMI.2026.3721625) · [Code](https://github.com/mashijie1028/Happy-CGCD) | C-GCD |
