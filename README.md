@@ -29,6 +29,7 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## Preprints
 | Paper | Venue | Links | Setting |
 |-------|---------------|-------|---------|
+| RaGCD: Reliability-Aware 2D-3D Multimodal Generalized Category Discovery | arXiv | [Paper](https://arxiv.org/abs/2611.13827) | GCD |
 | Category Discovery: An Open-World Perspective | arXiv | [Paper](https://arxiv.org/abs/2509.22542) · [Code1](https://github.com/Visual-AI/Awesome-Category-Discovery) · [Code2](https://github.com/Visual-AI/Category-Discovery) | Survey |
 | Semantic Mismapping in Generalized Category Discovery: Evaluation and Mitigation | arXiv | [Paper](https://arxiv.org/abs/2610.39356) | GCD |
 | HeteGCD: Statistics-Aware Dual-Prototype Learning for Generalized Category Discovery on Heterophilous Graphs | arXiv | [Paper](https://arxiv.org/abs/2610.36696) | GCD |
@@ -46,6 +47,8 @@ Below is a non-exhaustive, continuously updated list of GCD papers.
 ## 2026
 | Paper | Venue | Links | Setting |
 |-------|-------|-------|---------|
+| RAP: Reliability-Aware Pseudo-label with Boundary Preservation for Continual Generalized Category Discovery | **ACM MM 2026** | [Paper](https://doi.org/10.1145/3767308.3835588) | C-GCD |
+| Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation | **ACM MM 2026** | [Paper](https://doi.org/10.1145/3767308.3836233) | GCD-TTA |
 | Propagate to Discover: Graph-Structured Propagation for Generalized Category Discovery | **NeurIPS 2026** | [Paper](https://openreview.net/forum?id=u3dQkZONQo) | GCD |
 | Seen-Constrained Model-Order Selection for Unknown-$K$ Generalized Category Discovery | **NeurIPS 2026** | [Paper](https://openreview.net/forum?id=gPgvfSSM1N) · [Code](https://github.com/MingfuYAN/SEE-K) | GCD |
 | CloSeR: Unified Relational Distillation from Closed-Set Teachers for Category Discovery | **ECCV 2026** | [Paper](https://arxiv.org/abs/2608.25692) | GCD |
